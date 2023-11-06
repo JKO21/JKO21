@@ -4,7 +4,9 @@
   - [Created a Live Honeypot and SOC Environment in Azure](https://github.com/JKO21)
   - [FIM (File Integrity Monitor)](https://github.com/JKO21/)
 
+<h2>📄 Certifications</h2>
 
+- [CompTIA Security+](https://imgur.com/gallery/GKMrxSb)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JordonOfosuh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
