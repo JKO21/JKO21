@@ -1,7 +1,18 @@
-### Hi there 👋
+<h1>Hey, I'm Jordon! <br/><a href="https://github.com/JKO21">Student</a>, <a href="https://www.github.com/JKO21">Cybersecurity Specialist</a>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Created a Live Honeypot and SOC Environment in Azure](https://github.com/JKO21)
+  - [FIM (File Integrity Monitor)](https://github.com/JKO21/)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JordonOfosuh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/j.ofosuh/
 
 <!--
-**JKO21/JKO21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
