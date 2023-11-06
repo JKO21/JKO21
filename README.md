@@ -2,7 +2,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Created a Live Honeypot and SOC Environment in Azure](https://github.com/JKO21)
-  - [FIM (File Integrity Monitor)](https://github.com/JKO21/)
 
 <h2>📄 Certifications</h2>
 
