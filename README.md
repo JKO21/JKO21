@@ -1,7 +1,7 @@
 <h1>Hey, I'm Jordon! <br/><a href="https://github.com/JKO21">Student</a>, <a href="https://www.github.com/JKO21">Cybersecurity Specialist</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Created a Live Honeypot and SOC Environment in Azure](https://github.com/JKO21)
+  - [Created a Live Honeypot and SOC Environment in Azure](https://github.com/JKO21/Azure-Honeypot-SOC)
 
 <h2>📄 Certifications</h2>
 
